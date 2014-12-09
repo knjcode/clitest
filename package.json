@@ -11,6 +11,8 @@
   "devDependencies": {
     "coffee-script": "^1.8.0",
     "espower-coffee": "^0.10.0",
+    "gulp": "^3.8.10",
+    "gulp-mocha": "^2.0.0",
     "power-assert": "^0.10.0"
   }
 }

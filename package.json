@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "espower-coffee": "^0.10.0",
+    "power-assert": "^0.10.0"
+  }
 }
